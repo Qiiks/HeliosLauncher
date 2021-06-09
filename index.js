@@ -1,4 +1,4 @@
-require('@electron/remote/main').initialize()
+require('@electron/remote/main').initialize()//ay
 
 // Requirements
 const { app, BrowserWindow, ipcMain, Menu } = require('electron')
@@ -97,7 +97,7 @@ let win
 function createWindow() {
 
     win = new BrowserWindow({
-        width: 980,
+        width: 980,// see landing.js
         height: 552,
         icon: getPlatformIcon('SealCircle'),
         frame: false,

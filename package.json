@@ -1,9 +1,9 @@
 {
-  "name": "helioslauncher",
+  "name": "DevilZClient",
   "version": "1.8.0",
-  "productName": "Helios Launcher",
+  "productName": "DevilZ Client",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "DevilZ Team",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
